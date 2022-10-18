@@ -1,4 +1,5 @@
-اختصاصی :
+    **اختصاصی**
+
 http://oilasa.ir/
 
 http://VNSPanel.ir
@@ -20,7 +21,8 @@ https://bastangohar.ir/
 https://harajei.ir/
 
 https://cpshop.ir/
-وردپرس :
+
+    **وردپرس**
 
 http://VNSMag.ir
 
