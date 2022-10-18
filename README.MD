@@ -1,4 +1,4 @@
-   **اختصاصی**
+   **DotNet**
 
 http://oilasa.ir/
 
@@ -22,7 +22,7 @@ https://harajei.ir/
 
 https://cpshop.ir/
 
-   **وردپرس**
+   **Wordpress/PHP**
 
 http://VNSMag.ir
 
