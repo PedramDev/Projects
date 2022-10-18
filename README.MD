@@ -1,34 +1,36 @@
    **DotNet**
+   
+http://account.iran-warcraft.com/ (Angular10 - DotNet5)
 
-http://oilasa.ir/
+http://oilasa.ir/ (Asp mvc 4)
 
-http://VNSPanel.ir
+http://VNSPanel.ir (Asp mvc 4)
 
-http://OriginCarpet.com
+http://OriginCarpet.com (Asp mvc 4 / Js)
 
-https://maralkish.ir/
+https://maralkish.ir/ (DotNet6 / AngularJs / Jquery)
 
-https://sanigol.com/
+https://sanigol.com/ (DotNet6 / AngularJs / Jquery)
 
-https://gpgaiming.ir/
+https://gpgaiming.ir/ (DotNet6 / AngularJs / Jquery)
 
-https://irankala64.ir/
+https://irankala64.ir/ (DotNet6 / AngularJs / Jquery)
 
-https://shopcafe.ir/
+https://shopcafe.ir/ (DotNet6 / AngularJs / Jquery)
 
-https://bastangohar.ir/
+https://bastangohar.ir/ (DotNet6 / AngularJs / Jquery)
 
-https://harajei.ir/
+https://harajei.ir/ (DotNet6 / AngularJs / Jquery)
 
-https://cpshop.ir/
+https://cpshop.ir/ (DotNet6 / AngularJs / Jquery)
 
    **Wordpress/PHP**
 
-http://VNSMag.ir
+http://VNSMag.ir (Wordpress / Developed Templated)
 
-http://parsianresaneh.com
+http://parsianresaneh.com (Html5 OfflinePage)
 
-http://Chaptop.ir
+http://Chaptop.ir (Creative Single Page)
 
 http://Iran-tanzania.com
 
