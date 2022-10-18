@@ -1,4 +1,4 @@
-    **اختصاصی**
+   **اختصاصی**
 
 http://oilasa.ir/
 
@@ -22,7 +22,7 @@ https://harajei.ir/
 
 https://cpshop.ir/
 
-    **وردپرس**
+   **وردپرس**
 
 http://VNSMag.ir
 
