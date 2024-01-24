@@ -2,12 +2,6 @@
    
 http://account.iran-warcraft.com/ (Angular10 - DotNet5)
 
-http://oilasa.ir/ (Asp mvc 4)
-
-http://VNSPanel.ir (Asp mvc 4)
-
-http://OriginCarpet.com (Asp mvc 4 / Js)
-
 https://maralkish.ir/ (DotNet6 / AngularJs / Jquery)
 
 https://sanigol.com/ (DotNet6 / AngularJs / Jquery)
