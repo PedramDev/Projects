@@ -26,12 +26,6 @@ https://cpshop.ir/ (DotNet6 / AngularJs / Jquery)
 
    **Wordpress/PHP**
 
-http://Iran-tanzania.com
-
-http://Painting-watercolor.com
-
-http://Vazinjay.com
-
 http://Isaferoad.com
 
 https://ricelux.lu
