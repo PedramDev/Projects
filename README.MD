@@ -26,25 +26,13 @@ https://cpshop.ir/ (DotNet6 / AngularJs / Jquery)
 
    **Wordpress/PHP**
 
-http://VNSMag.ir (Wordpress / Developed Templated)
-
-http://parsianresaneh.com (Html5 OfflinePage)
-
-http://Chaptop.ir (Creative Single Page)
-
 http://Iran-tanzania.com
-
-http://Researchlib.ir
 
 http://Painting-watercolor.com
 
 http://Vazinjay.com
 
 http://Isaferoad.com
-
-http://Teklastr.com
-
-http://Esfahanfarsh.ir
 
 https://ricelux.lu
 
