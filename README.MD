@@ -72,18 +72,31 @@ https://seyedattar.com/
 
 شرکت چند زبانه :
 
-rubberex.co
-khodista.com
+https://rubberex.co
+
+https://khodista.com
+
+
 شرکتی خدماتی 
-ghalishoeihakim.com
-myrtusacademy.ir
-moeiniphy.com
+
+https://ghalishoeihakim.com
+
+https://myrtusacademy.ir
+
+https://moeiniphy.com
+
 شرکتی فروشگاهی 
-novinrubber.com
+
+https://novinrubber.com
+
+
 فروشگاهی 
-mars-style.com
-pckala.org
-labkhandmarket.com
+
+https://mars-style.com
+
+https://pckala.org
+
+https://labkhandmarket.com
 
 این لیست بعدها آپدیت میشود - نمونه کارها زیاد است...
 
